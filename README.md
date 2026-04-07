@@ -19,7 +19,7 @@ Si le joueur n'a pas l'épée en passant sur la case alors, un dialogue qui parl
 Lors de la première rencontre elle dialogue avec le joueur lui donnant de l'aide en le téléportant au cimetière où se trouve l'épée. Lors de la deuxième rencontre elle indique qu'elle a déjà aidé.
 
 # BP_Tavernier
-A pour effet de ralentir le joueur suite à un dialogue où le joueur accepte de boire.
+A pour effet de ralentir le joueur suite à un dialogue où le joueur accepte de boire. Le mini-jeu a été ajouté sur cette case. Le jeu est un memory où le joueur doit trouver les pairs d'image avec le minimum d'essaie possible. Chaque défaite le rendra saoul un tour de plus juqu'à trois tours maximum.
 
 # BP_Graveyard
 Fait apparraître un widget qui s'efface qui signifie au joueur qu'il possède l'épée.
